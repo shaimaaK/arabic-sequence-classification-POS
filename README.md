@@ -29,8 +29,8 @@ The word embedding technique used in this project is N-Gram Word2Vec -SkipGram m
 The dataset is split to 70% for training and 30% for testing
 ### BiLSTM sequential labeling classification model
 <p float="left">
-  <img src="https://github.com/shaimaaK/arabic-sequence-classification-POS/assets/54285485/987535c7-6ad9-472b-9828-ca906960ca6a" width="450" />
-  <img src="https://github.com/shaimaaK/arabic-sequence-classification-POS/assets/54285485/1f3b8137-7ab0-40f7-8dc6-1e73744c880c" width="450" /> 
+  <img src="https://github.com/shaimaaK/arabic-sequence-classification-POS/assets/54285485/987535c7-6ad9-472b-9828-ca906960ca6a" width="400" />
+  <img src="https://github.com/shaimaaK/arabic-sequence-classification-POS/assets/54285485/1f3b8137-7ab0-40f7-8dc6-1e73744c880c" width="400" /> 
 </p>
 
 ### KNN multi-class classification model
