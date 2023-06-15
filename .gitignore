@@ -1,0 +1,8 @@
+bilstm_model.h5
+bilstm_model_aravec.h5
+full_uni_sg_300_twitter.mdl
+full_uni_sg_300_twitter.mdl.trainables.syn1neg.npy
+full_uni_sg_300_twitter.mdl.wv.vectors.npy
+tag_list.csv
+word_list.csv
+word_list_cleaned.csv
