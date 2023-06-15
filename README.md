@@ -3,6 +3,14 @@ This project is implemented on arabic part of speech tagging as part of the "Nat
 the project uses the [arabic PUD dataset](https://github.com/UniversalDependencies/UD_Arabic-PUD) from [universal dependencies](https://universaldependencies.org/) and implements 
 1. Deep learning model (BiLSTM) for sequential labeling classification
 2. Pre-deep learning model (KNN) for multi-class classification 
+
+## Table of contents
+- [Arabic PUD Dataset](#arabic-pud-dataset)
+- [Arabic Word Embedding](#arabic-word-embedding)
+- [Results](#results)
+- [Requirements](#requirements)
+- [References and Resources](#references-and-resources)
+
 ## Arabic PUD Dataset
 During preprocessing steps the following processes are applied :
 1. Remove tanween and tashkeel
