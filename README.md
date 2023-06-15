@@ -7,6 +7,7 @@ the project uses the [arabic PUD dataset](https://github.com/UniversalDependenci
 ## Table of contents
 - [Arabic PUD Dataset](#arabic-pud-dataset)
 - [Arabic Word Embedding](#arabic-word-embedding)
+- [Structure BiLSTM sequential labeling classification model](#structure-bilstm-sequential-labeling-classification-model)
 - [Results](#results)
 - [Requirements](#requirements)
 - [References and Resources](#references-and-resources)
@@ -27,7 +28,7 @@ Each of the tags symbolizes part of the speech, refer to the image below for des
 ## Arabic Word Embedding
 Word embedding provides a **dense** representation of words and their relative meanings.<br>
 The word embedding technique used in this project is N-Gram Word2Vec -SkipGram model from [aravec project](https://github.com/bakrianoo/aravec) trained on twitter data with vector size 300.
-##  Structure BiLSTM sequential labeling classification model 
+## Structure BiLSTM sequential labeling classification model 
 <p float="left">
   <img src="https://github.com/shaimaaK/arabic-sequence-classification-POS/assets/54285485/643607db-5442-497f-bd90-a9aeec647640" width="500"  height="400"/>
 </p>
